@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Digital Multimeter",
+    "price": 49.99,
+    "category": "Service Tools",
+    "description": "Measure voltage, current, and resistance while troubleshooting electrical components.",
+    "imageUrl": "./images/multimeter.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Refrigerant Manifold Gauge Set",
+    "price": 89.99,
+    "category": "Service Tools",
+    "description": "Monitor system pressures with a dual-gauge manifold and color-coded service hoses.",
+    "imageUrl": "./images/manifold-gauges.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vacuum Pump",
+    "price": 159.99,
+    "category": "Service Tools",
+    "description": "Remove air and moisture from refrigerant lines during system installation and servicing.",
+    "imageUrl": "./images/vacuum-pump.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tubing Cutter",
+    "price": 24.99,
+    "category": "Service Tools",
+    "description": "Make clean cuts in copper tubing with an adjustable cutting wheel and compact frame.",
+    "imageUrl": "./images/tubing-cutter.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Digital Clamp Thermometer",
+    "price": 34.99,
+    "category": "Service Tools",
+    "description": "Check pipe surface temperatures using a clamp probe and easy-to-read digital display.",
+    "imageUrl": "./images/clamp-thermometer.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Foil HVAC Tape",
+    "price": 14.99,
+    "category": "Installation Supplies",
+    "description": "Seal compatible duct seams and joints with adhesive-backed aluminum foil tape.",
+    "imageUrl": "./images/foil-tape.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Copper Tubing Coil",
+    "price": 64.99,
+    "category": "Installation Supplies",
+    "description": "Flexible copper tubing for compatible HVAC projects. Check system specifications before selecting a size.",
+    "imageUrl": "./images/copper-tubing.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pipe Insulation",
+    "price": 12.99,
+    "category": "Installation Supplies",
+    "description": "Foam insulation sleeves help reduce heat transfer and condensation on compatible piping.",
+    "imageUrl": "./images/pipe-insulation.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Condenser Mounting Pad",
+    "price": 44.99,
+    "category": "Installation Supplies",
+    "description": "Provide a level support surface for compatible outdoor equipment with a durable mounting pad.",
+    "imageUrl": "./images/condenser-pad.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Thermostat Wire",
+    "price": 29.99,
+    "category": "Installation Supplies",
+    "description": "Color-coded low-voltage wire for compatible thermostat and HVAC control connections.",
+    "imageUrl": "./images/thermostat-wire.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pleated Air Filter",
+    "price": 16.99,
+    "category": "Maintenance Essentials",
+    "description": "A replacement filter for capturing airborne particles. Match the size and rating to your system.",
+    "imageUrl": "./images/air-filter.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Coil Cleaner",
+    "price": 18.99,
+    "category": "Maintenance Essentials",
+    "description": "Help remove dirt buildup from compatible HVAC coils when used according to the label.",
+    "imageUrl": "./images/coil-cleaner.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Fin Comb Set",
+    "price": 11.99,
+    "category": "Maintenance Essentials",
+    "description": "Straighten bent coil fins with a set of combs designed for several fin spacings.",
+    "imageUrl": "./images/fin-comb.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Condensate Drain Brush",
+    "price": 9.99,
+    "category": "Maintenance Essentials",
+    "description": "A flexible brush for loosening buildup in accessible condensate drain lines.",
+    "imageUrl": "./images/drain-brush.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Work Gloves",
+    "price": 19.99,
+    "category": "Maintenance Essentials",
+    "description": "General-purpose work gloves with textured palms for handling tools and supplies.",
+    "imageUrl": "./images/work-gloves.jpg"
+  }
+]

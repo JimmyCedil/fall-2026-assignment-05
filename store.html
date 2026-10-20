@@ -1,1 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Explore HVAC service tools, installation supplies, and maintenance essentials."
+    />
+    <title>JNG Supply | Store</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+    <script type="module" src="./src/main.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar container" aria-label="Main navigation">
+        <a class="brand" href="./index.html">JNG<span>SUPPLY</span></a>
+        <div class="nav-links">
+          <a href="./index.html">Home</a>
+          <a href="./about.html">About</a>
+          <a href="./store.html" aria-current="page">Store</a>
+        </div>
+      </nav>
+    </header>
 
+    <main>
+      <section class="page-heading">
+        <div class="container">
+          <p class="eyebrow">The JNG collection</p>
+          <h1>Tools for the task ahead.</h1>
+          <p class="section-description">
+            Explore service tools, installation supplies, and maintenance
+            essentials for your next HVAC project.
+          </p>
+        </div>
+      </section>
+
+      <section class="section container" aria-labelledby="catalog-title">
+        <div class="catalog-heading">
+          <h2 id="catalog-title">Our products</h2>
+          <p id="product-count"></p>
+        </div>
+
+        <div id="product-grid" class="product-grid"></div>
+
+        <nav class="pagination" aria-label="Product pagination">
+          <button
+            id="previous-button"
+            type="button"
+            aria-controls="product-grid"
+            disabled
+          >
+            &larr; Previous
+          </button>
+
+          <p id="page-indicator" role="status" aria-live="polite">
+            Page 1 of 3
+          </p>
+
+          <button id="next-button" type="button" aria-controls="product-grid">
+            Next &rarr;
+          </button>
+        </nav>
+
+        <noscript>
+          <p>Please enable JavaScript to view the product catalog.</p>
+        </noscript>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <p>&copy; 2026 JNG Supply. All rights reserved.</p>
+        <p>Mon–Fri: 8 AM–5 PM | Charlotte, NC</p>
+      </div>
+    </footer>
+  </body>
+</html>
